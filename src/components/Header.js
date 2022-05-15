@@ -12,7 +12,7 @@ const Header = () => {
         <h1>@bndclothings</h1>
         <em>
           My name is Ajibike Oshodi. Covering People's nakedness is what i do
-          for a living. Covering People's nakedness is what i do for a living
+          for a living.
         </em>
         <address>
           <FaLocationArrow size="1.4rem" />

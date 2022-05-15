@@ -12,7 +12,7 @@ const Content = () => {
         </p>
         <p>
           @bndclothings we sell comfortable, flexible and presentable dresses.
-          We give you value for your money 🥰🥰🥰
+          We give you the value for your money 🥰🥰🥰
         </p>
         <p>
           Please note that delivery within Lagos is within 72 hours and ouside
