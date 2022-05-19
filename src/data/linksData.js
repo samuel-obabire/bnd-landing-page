@@ -5,6 +5,7 @@ import {
   FaFacebook,
   FaEnvelope,
   FaPhoneSquare,
+  FaTelegram,
 } from "react-icons/fa"
 
 export const linksData = [
@@ -59,6 +60,14 @@ export const linksData = [
   },
   {
     id: 7,
+    link: "https://t.me/bndclothing",
+    Icon: FaTelegram,
+    text: "View Telegram Page",
+    headerOnly: false,
+    bodyOnly: false,
+  },
+  {
+    id: 8,
     link: "mailto:bndclothings@gmail.com",
     Icon: FaEnvelope,
     text: "Send A Mail",
